@@ -1,1 +1,3 @@
 Repositorio para el proyecto GStreamer...
+confirmar que estoy y puedo subir
+osfohsd
